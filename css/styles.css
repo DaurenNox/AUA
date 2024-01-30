@@ -102,11 +102,11 @@ hr {
   border-radius: 0;
 }
 .btn.btn-primary {
-  background: #0c739c; /* Changed from original color to light blue */
+  background: #078039; /* Changed from original color to light blue */
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
-  background: #75c2d6; /* Lighter version of light blue for hover effect */
+  background: #4dbb84; /* Lighter version of light blue for hover effect */
 }
 .column-title {
   margin-top: 0;
@@ -661,8 +661,8 @@ ul.nostyle i {
 .btn-primary {
   background-color: #2a95be;
   border-color: #2a95be;
-  border-radius: 5px;
-  padding: 10px 30px;
+  border-radius: 30px;
+  padding: 15px 30px;
   color: #fff;
   font-size: 16px;
   transition: background-color 0.3s ease;
